@@ -1,4 +1,5 @@
 ### Olá! Eu sou Gustavo Dias 🖖
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-dias-6a00451a3)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tavintavoltando/)
 ![Tavio GitHub stats](https://github-readme-stats.vercel.app/api?username=TavioDs&show_icons=true&theme=dracula)
